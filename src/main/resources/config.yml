@@ -1,0 +1,8 @@
+# The language that messages will be in by default.
+default-language: English (United Kingdom)
+
+# Allows players to give themselves (and others) freeze wands.
+give-freeze-wand-permission: freeze-wand.give
+
+# Grants players immunity from being frozen.
+immune-to-freeze-permission: freeze-wand.immune
